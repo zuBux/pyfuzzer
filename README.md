@@ -11,4 +11,6 @@ pyfuzzer expects the following options:
 
 Example :
 
-```python pyfuzzer.py -i C:\Users\user\testcases -t mp4 -p C:\Program Files\TargetPlayer\player.exe```
+```
+python pyfuzzer.py -i C:\Users\user\testcases -t mp4 -p C:\Program Files\TargetPlayer\player.exe
+```
